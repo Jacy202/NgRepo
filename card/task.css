@@ -1,0 +1,16 @@
+#navbar{
+background-color: aquamarine;
+padding :20px
+
+}
+#container {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: solid;
+    width: 50%
+
+}
+button {
+    margin : 20px
+}
