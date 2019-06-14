@@ -23,5 +23,11 @@ localStorage.setItem('product',JSON.stringify(array))
 
 // const card = document.createElement("div")
 // card.className = "prodcard"
-e.preventDefault()
+// 
 })
+
+document.querySelector("#button").addEventListener('click',(e)=>{
+    alert ('goodbye')
+    // window.location =
+  })
+  
